@@ -1,18 +1,10 @@
 # ONTOSIGN — ASL Knowledge Explorer
 
-### 🏆 Winning Project — 6th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-26)
-
 **ONTOSIGN / ASL Knowledge Explorer** is a multimodal Linguistic Linked Open Data (LLOD) framework for exploring American Sign Language (ASL) through natural-language queries. It represents lexical, semantic, phonological, psycholinguistic, and multimodal sign-language information as an **OntoLex-Lemon RDF knowledge graph** and provides **LLM-powered natural-language-to-SPARQL querying**.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://ontosign-jet.vercel.app/)
 
 🚀 **[Try ONTOSIGN Live](https://ontosign-jet.vercel.app/)** — Explore the ASL knowledge graph through natural-language queries and inspect the generated SPARQL.
-
-**Team:** Fashad Ahmed Siddique · Zunaira Hasnain · Oreoluwa Babatunde · Luana Nova · Nuveyba Ekinci
-
-**Project:** *Building a Multimodal Linked Data Framework for Sign Language Lexicons*
-
-**Event:** [6th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-26)](https://datathon2026.fcsh.unl.pt/)
 
 ---
 
@@ -405,29 +397,6 @@ This enables cross-dimensional queries such as retrieving signs from a semantic 
 
 ---
 
-## Datathon
-
-### 🏆 Winning Project — SD-LLOD-26
-
-ASL Knowledge Explorer was developed during the **6th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-26)**, held from **August 30 to September 4, 2026** at **Villa Cagnola, Gazzada Schianno, Italy**.
-
-The datathon brings together researchers and students working with Linguistic Linked Open Data, Semantic Web technologies, natural language processing, and linguistic data science.
-
-### Team
-
-- **Zunaira Hasnain**
-- **Luana Nova**
-- **Nuveyba Ekinci**
-- **Fashad Ahmed Siddique**
-- **Oreoluwa Babatunde**
-
-### Mentors
-
-- **Jorge Gracia del Río**
-- **Christian Chiarcos**
-- **Blerina Spahiu**
-
----
 
 ## Data Attribution
 
@@ -450,16 +419,6 @@ Multimedia references are represented as external references rather than redistr
 
 ---
 
-## Acknowledgements
-
-We thank the organizers and mentors of the **6th Summer Datathon on Linguistic Linked Open Data (SD-LLOD-26)** for their guidance and support during the development of this project.
-
----
-
-## Build for Production
-
-```bash
-npm run build
 npm start
 ```
 
